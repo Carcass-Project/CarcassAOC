@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head><title>2021-12-05 | CAOC</title></head>
+
+  <body>
+    <center>
+      <h1>2021-12-06 || Ornament Factory</h1>
+      <p>This holly day you will make an app where you can make your own ornament, using a graphics framework Raylib.</p>
+      <p>Suggestions: Export the ornament as an image, more decorations, make it into a 3D model then export it as obj, so you can 3D print it.</p>
+      <h2>RESTRICTIONS</h2>
+      <p>You have to make it using Raylib.</p>
+      <p>Don't copy some code, and try making it unique.</p>
+      <p>Use C# or ReCT to code this exercise, but C and Lua is also allowed, if you really want to.</p>
+      <h3>EXAMPLES</h3>
+      <img src="https://media.discordapp.net/attachments/751171532851511378/917436477561008168/unknown.png" />
+      <div>
+      <a href="https://discord.gg/5kcqumtwQX">Do you want to share your project, and even win the Best of the Day? Please join our discord server, and send me a picture!</a>
+      </div>
+    </center>
+  </body>
+  
+  <style>
+    @font-face
+    {
+      font-family: ubuntumono_bold;
+      src: url(UbuntuMono-Bold.ttf);
+    }
+    @font-face
+    {
+      font-family: ubuntumono;
+      src: url(UbuntuMono-Regular.ttf);
+    }
+    body
+    {
+      background-color: #101010;
+    }
+    h1
+    {
+      color: white;
+      font-family: ubuntumono_bold;
+      src: url(UbuntuMono-Bold.ttf);
+    }
+    h2
+    {
+      color: white;
+        font-family: ubuntumono_bold;
+      src: url(UbuntuMono-Bold.ttf);
+    }
+    h3
+    {
+      color: white;
+        font-family: ubuntumono_bold;
+      src: url(UbuntuMono-Bold.ttf);
+    }
+    p
+    {
+      color: white;
+      font-family: ubuntumono;
+      src: url(UbuntuMono-Regular.ttf);
+    }
+    a
+    {
+      color: 	#404040;
+      font-family: ubuntumono;
+      src: url(UbuntuMono-Regular.ttf);
+    }
+    img
+    {
+      border-radius: 6px;
+    }
+  </style>
+</html>
